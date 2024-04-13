@@ -1,1 +1,1 @@
-# prepcourse-24
+este es un prueba de como crear un repoditorio de la terminal de github
